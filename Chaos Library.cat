@@ -1433,7 +1433,7 @@ Effect: If this Bound spell is cast, all units within 6&quot; of this model (fri
             <cost name="pts" typeId="points" value="35"/>
           </costs>
         </selectionEntry>
-        <selectionEntry type="upgrade" import="true" name="Rune of the Beast Ascendant" hidden="true" id="9257-f7d9-a542-cee1" sortIndex="4">
+        <selectionEntry type="upgrade" import="true" name="Rune of the Beast Ascendant" hidden="false" id="9257-f7d9-a542-cee1" sortIndex="4">
           <constraints>
             <constraint type="max" value="1" field="selections" scope="force" shared="true" id="8361-f8ee-9ca3-8662" includeChildSelections="true"/>
           </constraints>
